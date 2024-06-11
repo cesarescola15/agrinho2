@@ -3,4 +3,7 @@ body{
     background-attachment: scroll;
     height: 400px;
     width: 300px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
 }
