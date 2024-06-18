@@ -11,7 +11,7 @@ body {
 }
 
 .logo{
-    width: 10%;
+    width: 5%;
 }
 .texto{
     color: white;
@@ -21,4 +21,7 @@ body {
 .subtitulo{
     color: white;
     font-size: 50px;
+}
+.formato{
+    margin: 10px;
 }
