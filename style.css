@@ -1,7 +1,7 @@
 body {
     background-image: url(sementes.png);
     background-repeat: no-repeat;
-    background-size: 100% 600px;
+    background-size: 100% 100%;
     margin: 0;
 }
 
@@ -15,10 +15,10 @@ body {
 }
 .texto{
     color: white;
-    font-size: 10px;
+    font-size: 30px;
     font-family: Arial, Helvetica, sans-serif;
 }
 .subtitulo{
-    color: ;
+    color: white;
     font-size: 50px;
 }
