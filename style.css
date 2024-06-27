@@ -8,7 +8,7 @@ body {
 .cabecalho {
     background-color: rgb(101, 95, 30);
     height: 50 px;
-    display: flex ;
+    display: flex;
     align-items: center;
     justify-content: space-between;
     padding: 12px;
@@ -24,18 +24,25 @@ body {
     font-size: 20px;
 }
 
-.logo{
+.logo {
     width: 5%;
 }
-.texto{
+
+.texto {
     color: white;
     font-size: 30px;
     font-family: Arial, Helvetica, sans-serif;
 }
-.subtitulo{
+
+.subtitulo {
     color: white;
     font-size: 50px;
 }
-.formato{
+
+.titulo{
+    color: azure;
+}
+
+.formato {
     margin: 15px;
 }
