@@ -9,6 +9,7 @@ body {
     background-color: black;
     height: 50 px;
     display: flex;
+    padding: 12px;
 }
 
 .botao {
