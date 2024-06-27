@@ -10,6 +10,16 @@ body {
     height: 50 px;
 }
 
+.botao {
+    padding: 10px 8px;
+    width: 50px;
+    color: white;
+    background-color: goldenrod;
+    border: 1px;
+    border-radius: 10px;
+
+}
+
 .logo{
     width: 5%;
 }
