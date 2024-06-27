@@ -8,7 +8,9 @@ body {
 .cabecalho {
     background-color: black;
     height: 50 px;
-    display: flex;
+    display: flex ;
+    align-items: center;
+    justify-content: space-between;
     padding: 12px;
 }
 
